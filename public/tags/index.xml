@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jorane Membrez</title>
+    <link>http://www.example.com/tags/</link>
+    <description>Recent content in Tags on Jorane Membrez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>design</title>
+      <link>http://www.example.com/tags/design/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/tags/design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>expérience</title>
+      <link>http://www.example.com/tags/exp%C3%A9rience/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/tags/exp%C3%A9rience/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketing</title>
+      <link>http://www.example.com/tags/marketing/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/tags/marketing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>eco-responsable</title>
+      <link>http://www.example.com/tags/eco-responsable/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/tags/eco-responsable/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>marketting</title>
+      <link>http://www.example.com/tags/marketting/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/tags/marketting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>émotionnel</title>
+      <link>http://www.example.com/tags/%C3%A9motionnel/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/tags/%C3%A9motionnel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IA</title>
+      <link>http://www.example.com/tags/ia/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/tags/ia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Innovation</title>
+      <link>http://www.example.com/tags/innovation/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/tags/innovation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Códigos curtos</title>
+      <link>http://www.example.com/tags/shortcodes/_index.pt-br/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/tags/shortcodes/_index.pt-br/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

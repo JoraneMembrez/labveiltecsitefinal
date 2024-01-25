@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marketing on Jorane Membrez</title>
+    <link>http://www.example.com/tags/marketing/</link>
+    <description>Recent content in Marketing on Jorane Membrez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.example.com/tags/marketing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Expérimentation</title>
+      <link>http://www.example.com/posts/math-typesetting/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/posts/math-typesetting/</guid>
+      <description>Sujet et objectifs de l&amp;rsquo;expérience: Link to heading L&amp;rsquo;expérience visait à penser la conception d&amp;rsquo;un site web pour un lavanderaie, en mettant l&amp;rsquo;accent sur une expérience utilisateur fluide. Le sujet principal était d&amp;rsquo;explorer de nouvelles alternatives pour la création d&amp;rsquo;une boutique en ligne, avec comme contrainte la facilitation de gestion pour une petite entreprise.
+Résultats attendus, résultats obtenus: Link to heading Les attentes étaient de créer un site reflétant les valeurs de la lavanderaie, avec une boutique en ligne fonctionnelle.</description>
+    </item>
+    <item>
+      <title>Marketing émotionnel</title>
+      <link>http://www.example.com/posts/more-rich-content/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/posts/more-rich-content/</guid>
+      <description>Marketing émotionnel Link to heading Le marketing est plus qu&amp;rsquo;une simple transaction commerciale, il s’agit avant tout d’une expérience, une connexion émotionnelle. Le marketing émotionnel se concentre sur cette connexion profonde, utilisant les émotions comme un puissant levier pour influencer les décisions d&amp;rsquo;achat et créer des relations durables avec les consommateurs.
+Qu&amp;rsquo;est-ce que le Marketing Émotionnel ? Link to heading Le marketing émotionnel va au-delà des simples produits et services.</description>
+    </item>
+    <item>
+      <title>L&#39;IA et le marketing</title>
+      <link>http://www.example.com/posts/rich-content/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/posts/rich-content/</guid>
+      <description>Intelligence artificielle et marketing d&amp;rsquo;innovation Link to heading L&amp;rsquo;IA s&amp;rsquo;intègre désormais largement dans le domaine du marketing, offrant des opportunités inédites et influençant significativement les stratégies et les performances des entreprises.
+Au cœur de cette évolution se trouve le machine learning, un domaine clé de l&amp;rsquo;IA qui améliore les performances des systèmes grâce à l&amp;rsquo;analyse des données. Par exemple, Facebook utilise l&amp;rsquo;IA pour décrire les images téléchargées aux personnes malvoyantes et affiner avec précision le ciblage publicitaire.</description>
+    </item>
+    <item>
+      <title>Le marketing d&#39;innovation qu&#39;est-ce que c&#39;est ?</title>
+      <link>http://www.example.com/posts/markdown-syntax/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/posts/markdown-syntax/</guid>
+      <description>Le marketing d&amp;rsquo;innovation, qu&amp;rsquo;est-ce que c&amp;rsquo;est ? Link to heading Le marketing d’innovation est une approche qui vise à exploiter la créativité et l’ingéniosité en matière de promotion et de publicité. Il se focalise sur les opportunités uniques créant ainsi un attrait pour les consommateurs grâce à des solutions créatives. 1 Il s’agit d’un concept relativement nouveau qui vise à créer une culture centrée sur le client avec des stratégies adaptatives.</description>
+    </item>
+  </channel>
+</rss>

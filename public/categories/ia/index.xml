@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IA on Jorane Membrez</title>
+    <link>http://www.example.com/categories/ia/</link>
+    <description>Recent content in IA on Jorane Membrez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.example.com/categories/ia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;IA et le marketing</title>
+      <link>http://www.example.com/posts/rich-content/</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.example.com/posts/rich-content/</guid>
+      <description>Intelligence artificielle et marketing d&amp;rsquo;innovation Link to heading L&amp;rsquo;IA s&amp;rsquo;intègre désormais largement dans le domaine du marketing, offrant des opportunités inédites et influençant significativement les stratégies et les performances des entreprises.
+Au cœur de cette évolution se trouve le machine learning, un domaine clé de l&amp;rsquo;IA qui améliore les performances des systèmes grâce à l&amp;rsquo;analyse des données. Par exemple, Facebook utilise l&amp;rsquo;IA pour décrire les images téléchargées aux personnes malvoyantes et affiner avec précision le ciblage publicitaire.</description>
+    </item>
+  </channel>
+</rss>
