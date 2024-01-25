@@ -1,6 +1,7 @@
 baseURL = "http://www.example.com"
 title = "Jorane Membrez"
 theme = "hugo-coder"
+publishDir = "docs"
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 6
