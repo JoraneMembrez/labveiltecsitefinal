@@ -12,6 +12,6 @@ Mon parcours aurait pu me pousser vers des études en économie d'entreprise, ma
 
 Découvrir le sens de sa vie professionnelle est un processus puissant. Mon ikigai, ma raison d'être, a été long à définir. Je ne sais pas si cette vision restera la même ou évoluera, mais voici ce qui compte pour moi :
 
-![Ikigai](/labveiltecsitefinal/docs/images/IkigaiDiagram.png)
+![Ikigai](/labveiltecsitefinal/images/IkigaiDiagram.png)
 
 Pour voir mon portfolio [joranemembrez.ch](https://joranemembrez.ch)
