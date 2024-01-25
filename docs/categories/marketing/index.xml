@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marketing on Jorane Membrez</title>
-    <link>http://www.example.com/categories/marketing/</link>
+    <link>https://joranemembrez.github.io/labveiltecsitefinal/categories/marketing/</link>
     <description>Recent content in Marketing on Jorane Membrez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 08 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/categories/marketing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joranemembrez.github.io/labveiltecsitefinal/categories/marketing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marketing émotionnel</title>
-      <link>http://www.example.com/posts/more-rich-content/</link>
+      <link>https://joranemembrez.github.io/labveiltecsitefinal/posts/more-rich-content/</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/more-rich-content/</guid>
+      <guid>https://joranemembrez.github.io/labveiltecsitefinal/posts/more-rich-content/</guid>
       <description>Marketing émotionnel Link to heading Le marketing est plus qu&amp;rsquo;une simple transaction commerciale, il s’agit avant tout d’une expérience, une connexion émotionnelle. Le marketing émotionnel se concentre sur cette connexion profonde, utilisant les émotions comme un puissant levier pour influencer les décisions d&amp;rsquo;achat et créer des relations durables avec les consommateurs.
 Qu&amp;rsquo;est-ce que le Marketing Émotionnel ? Link to heading Le marketing émotionnel va au-delà des simples produits et services.</description>
     </item>
     <item>
       <title>L&#39;IA et le marketing</title>
-      <link>http://www.example.com/posts/rich-content/</link>
+      <link>https://joranemembrez.github.io/labveiltecsitefinal/posts/rich-content/</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/rich-content/</guid>
+      <guid>https://joranemembrez.github.io/labveiltecsitefinal/posts/rich-content/</guid>
       <description>Intelligence artificielle et marketing d&amp;rsquo;innovation Link to heading L&amp;rsquo;IA s&amp;rsquo;intègre désormais largement dans le domaine du marketing, offrant des opportunités inédites et influençant significativement les stratégies et les performances des entreprises.
 Au cœur de cette évolution se trouve le machine learning, un domaine clé de l&amp;rsquo;IA qui améliore les performances des systèmes grâce à l&amp;rsquo;analyse des données. Par exemple, Facebook utilise l&amp;rsquo;IA pour décrire les images téléchargées aux personnes malvoyantes et affiner avec précision le ciblage publicitaire.</description>
     </item>
     <item>
       <title>Le marketing d&#39;innovation qu&#39;est-ce que c&#39;est ?</title>
-      <link>http://www.example.com/posts/markdown-syntax/</link>
+      <link>https://joranemembrez.github.io/labveiltecsitefinal/posts/markdown-syntax/</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/markdown-syntax/</guid>
+      <guid>https://joranemembrez.github.io/labveiltecsitefinal/posts/markdown-syntax/</guid>
       <description>Le marketing d&amp;rsquo;innovation, qu&amp;rsquo;est-ce que c&amp;rsquo;est ? Link to heading Le marketing d’innovation est une approche qui vise à exploiter la créativité et l’ingéniosité en matière de promotion et de publicité. Il se focalise sur les opportunités uniques créant ainsi un attrait pour les consommateurs grâce à des solutions créatives. 1 Il s’agit d’un concept relativement nouveau qui vise à créer une culture centrée sur le client avec des stratégies adaptatives.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>expérience on Jorane Membrez</title>
-    <link>http://www.example.com/tags/exp%C3%A9rience/</link>
+    <link>https://joranemembrez.github.io/labveiltecsitefinal/tags/exp%C3%A9rience/</link>
     <description>Recent content in expérience on Jorane Membrez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/tags/exp%C3%A9rience/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joranemembrez.github.io/labveiltecsitefinal/tags/exp%C3%A9rience/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Expérimentation</title>
-      <link>http://www.example.com/posts/math-typesetting/</link>
+      <link>https://joranemembrez.github.io/labveiltecsitefinal/posts/math-typesetting/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/math-typesetting/</guid>
+      <guid>https://joranemembrez.github.io/labveiltecsitefinal/posts/math-typesetting/</guid>
       <description>Sujet et objectifs de l&amp;rsquo;expérience: Link to heading L&amp;rsquo;expérience visait à penser la conception d&amp;rsquo;un site web pour un lavanderaie, en mettant l&amp;rsquo;accent sur une expérience utilisateur fluide. Le sujet principal était d&amp;rsquo;explorer de nouvelles alternatives pour la création d&amp;rsquo;une boutique en ligne, avec comme contrainte la facilitation de gestion pour une petite entreprise.
 Résultats attendus, résultats obtenus: Link to heading Les attentes étaient de créer un site reflétant les valeurs de la lavanderaie, avec une boutique en ligne fonctionnelle.</description>
     </item>
